@@ -13,6 +13,8 @@ digital kitchen scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p1
 
 ![alt text](https://github.com/jenizar/displaying-kitchen-scale-data-on-p10-led-module/blob/main/Screenshot/p10_4.jpg)
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qg7f4kIegWA/0.jpg)](http://www.youtube.com/watch?v=qg7f4kIegWA)
+
 VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
 DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;3, 
