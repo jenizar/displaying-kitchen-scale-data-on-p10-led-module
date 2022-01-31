@@ -3,7 +3,7 @@ Displaying kitchen scale data on p10 led module
 
 materials:
 
-digital body scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p10 led module (2 panel), psu 5v/10A for p10 led panel, psu 5v/3A for arduino, jumper cable, hub cable pin 16.
+digital kitchen scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p10 led module (2 panel), psu 5v/10A for p10 led panel, psu 5v/3A for arduino, jumper cable, hub cable pin 16.
 
 VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
