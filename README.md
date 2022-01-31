@@ -5,6 +5,14 @@ materials:
 
 digital kitchen scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p10 led module (2 panel), psu 5v/10A for p10 led panel, psu 5v/3A for arduino, jumper cable, hub cable pin 16.
 
+![alt text](https://github.com/jenizar/displaying-kitchen-scale-data-on-p10-led-module/blob/main/Screenshot/p10_1.jpg)
+
+![alt text](https://github.com/jenizar/displaying-kitchen-scale-data-on-p10-led-module/blob/main/Screenshot/p10_2.jpg)
+
+![alt text](https://github.com/jenizar/displaying-kitchen-scale-data-on-p10-led-module/blob/main/Screenshot/p10_3.jpg)
+
+![alt text](https://github.com/jenizar/displaying-kitchen-scale-data-on-p10-led-module/blob/main/Screenshot/p10_4.jpg)
+
 VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
 DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;3, 
