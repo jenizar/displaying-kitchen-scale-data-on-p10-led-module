@@ -15,6 +15,15 @@ digital kitchen scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p1
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qg7f4kIegWA/0.jpg)](http://www.youtube.com/watch?v=qg7f4kIegWA)
 
+Instructions:
+1. open the back case with a screwdriver
+2. disconnect the pin header male connecting the display and battery pcb with the loadcell cable pcb
+3. use the pcb piece as a place to connect the 4 wires (red-black-green-blue) coming from the loadcell pcb scales.
+4. solder the jumper cables from the pcb pieces to 4 wires (red-black-green-blue) the weighing loadcell pcb.
+5. use a mouse cable or speaker cable containing 4 wires and solder it to the jumper cable pcb piece.
+6. match the 4 wires coming from the weighing sensor to the load cell amplifier HX711 red - red, black - black, white - white, green - green
+7. adjust the 4 pins on the HX711 load cell amplifier with the pins on the Arduino board:
+
 VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
 DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;3, 
